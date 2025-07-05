@@ -16,8 +16,6 @@ Junior Data Analyst
 - [Tools & Workflow](#tools--workflow)
 - [Dashboard Pages & Visuals](#dashboard-pages--visuals)
 - [Insights & Observations](#insights--observations)
-- [Strategic Recommendations](#strategic-recommendations)
-- [Sample Visuals](#sample-visuals)
 - [Connect with Me](#connect-with-me)
 
 ---
@@ -75,6 +73,9 @@ This dataset was unpivoted and mapped using composite keys to calculate conditio
 - Gender Split by Region and Department
 - Donut Chart, Matrix Table, Filled Map
 
+![Palmora Analysis P1 Workforce Profile](https://github.com/user-attachments/assets/390d0ebb-d891-4332-b06b-9a2fcf823a3c)
+
+
 ### 🟡 Page 2 – Compensation Overview
 - Avg Salary: $74K
 - Salary Compliance with $90K Threshold
@@ -82,11 +83,18 @@ This dataset was unpivoted and mapped using composite keys to calculate conditio
 - Salary Bands by Department
 - Funnel and Waterfall Charts
 
+![Palmora Ana P2 Salary equity and Compliance](https://github.com/user-attachments/assets/af6459e8-9619-403d-bbe8-22568b5c51eb)
+
+![Palmora ana P2b Salary equity and compliance](https://github.com/user-attachments/assets/2d6357fe-27d6-4665-8ff2-d42d01f40c1f)
+
+
 ### 🟣 Page 3 – Performance & Ratings
 - Avg Rating: 2.83
 - Rating Distribution by Gender & Department
 - Top Rated Employees
 - Ratings by Region & Influencer Visual
+
+![Palmora Performance and rating P3](https://github.com/user-attachments/assets/5018f819-f2af-4b0b-9134-8deb60f2b74c)
 
 ### 🔴 Page 4 – Bonus Allocation
 - Total Bonus Paid: $21,990
@@ -95,17 +103,18 @@ This dataset was unpivoted and mapped using composite keys to calculate conditio
 - Top Earners & Compensation Totals
 - Gauge and Waterfall Visuals
 
+![Palmora P4 Bonus  Compensation](https://github.com/user-attachments/assets/c0e752d6-3413-4d69-b925-2595d433050b)
+
+![Kaduna Bonus Paid P4a](https://github.com/user-attachments/assets/1ab559a3-30d4-47bd-938c-fdd1b3625a7d)
+
+![Abuja bonus paid p4b](https://github.com/user-attachments/assets/40fdee9b-e097-41a0-bed5-952c5e646618)
+
+
+![Lagos bonus paid 4c](https://github.com/user-attachments/assets/ea61edc8-0ec6-4def-8416-75ec8302502c)
+
 ---
 
-## 📥 Sample Files & Downloads
-
-- 📁 [`PalmoraHR_Cleaned.xlsx`](datasets/PalmoraHR_Cleaned.xlsx)  
-- 📁 [`BonusMatrix_Unpivoted.xlsx`](datasets/BonusMatrix_Unpivoted.xlsx)  
-- 📊 [`HR_Analysis_Dashboard.pbix`](files/HR_Analysis_Dashboard.pbix)
-
----
-
-## 🧠 Insights & Observations
+## Insights & Observations
 
 ### 🔵 Page 1 – Workforce Profile
 - 👥 Palmoria employs 946 people across Lagos, Abuja, and Kaduna.
@@ -136,7 +145,7 @@ This dataset was unpivoted and mapped using composite keys to calculate conditio
 
 ---
 
-## 💡 Strategic Recommendations
+## Strategic Recommendations
 
 ### 🔵 Page 1 – Workforce Profile
 - 📋 Standardize gender disclosure in HR records.
@@ -161,17 +170,6 @@ This dataset was unpivoted and mapped using composite keys to calculate conditio
 - 📊 Combine performance data with bonus visuals to reveal causality.
 - 🏅 Spotlight high earners to drive engagement and fairness culture.
 - ⚖️ Review location-based allocation strategy to encourage balance.
-
----
-
-## 📸 Sample Visuals
-
-| Page | Visual |
-|------|--------|
-| Workforce | ![Workforce View](images/workforce-profile.png) |
-| Compensation | ![Salary Funnel](images/salary-compliance.png) |
-| Ratings | ![Performance Matrix](images/performance-matrix.png) |
-| Bonuses | ![Bonus Overview](images/bonus-summary.png) |
 
 ---
 
