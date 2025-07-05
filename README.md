@@ -116,56 +116,43 @@ This dataset was unpivoted and mapped using composite keys to calculate conditio
 
 ## Insights & Observations
 
-### 🔵 Page 1 – Workforce Profile
-- Findings reveal that Palmoria employs 946 people across Lagos, Abuja, and Kaduna and Gender split is nearly balanced: 49% Male, 47% Female, 4% Undisclosed.
-- Strong female presence in Legal, HR, and Marketing.
-- Engineering and Product remain male-dominated.
-- Kaduna shows consistent gender balance; undisclosed gender highest in Services and R&D.
+### Insights
+The **Workforce Profile** analysis reveals that **Palmoria employs 946 people** across **Lagos, Abuja, and Kaduna** and Gender split is nearly balanced: 49% Male, 47% Female, 4% Undisclosed with a strong female presence in Legal, HR, and Marketing. Also **Engineering and Product** remain male-dominated, Kaduna shows consistent gender balance; undisclosed gender highest in Services and R&D.
 
-### 🟡 Page 2 – Compensation Overview
-- Average salary is $74K; 69% earn below the $90K threshold.
-- Gender pay gap of 3.55% (Men: $75K | Women: $72K).
-- Kaduna shows the smallest pay gap; Marketing and Engineering show widest gaps.
-- Nearly 48% of underpaid employees are male, but 47.9% have undisclosed gender data.
+The **Compensation Overview** shows that **Average salary is $74K**; **69% earn below the $90K threshold**, Gender pay gap of 3.55% (Men: $75K | Women: $72K), Kaduna shows the smallest pay gap; Marketing and Engineering show widest gaps and nearly 48% of underpaid employees are male, but 47.9% have undisclosed gender data.
 
-### 🟣 Page 3 – Performance & Ratings
-- Avg company rating is 2.83 with disposition into Males average 3.10 vs. females at 2.98; Services rate lowest at 2.73.
-- Engineering holds the highest average score at 3.14.
-- 90 employees are top-rated ("Very Good").
-- Ratings distributed evenly across Lagos, Kaduna, Abuja (≈ 33% each).
+**Performance & Ratings analysis** is a testament that **Avg company rating is 2.83** with disposition into Males average 3.10 vs. females at 2.98; Services rate lowest at 2.73.
+  - Engineering holds the highest average score at 3.14.
+  - 90 employees are top-rated ("Very Good").
+  - Ratings distributed evenly across Lagos, Kaduna, Abuja (≈ 33% each).
 
-### 🔴 Page 4 – Bonus Allocation
-- The Total bonus paid: $21,990 and 92% of employees received a bonus with Top earner: Cara Havers — over $8,200 in bonus.
-- Kaduna & Abuja lead in bonus volume (36%+); Lagos received 26%.
-- Training and Engineering departments lead in bonus share.
+Finally the **Bonus Allocation** analysis 
+  - The Total bonus paid: $21,990 and 92% of employees received a bonus with Top earner: Cara Havers — over $8,200 in bonus.
+  - Kaduna & Abuja lead in bonus volume (36%+); Lagos received 26%.
+  - Training and Engineering departments lead in bonus share.
 
 ---
 
 ## Strategic Recommendations
 
-### 🔵 Page 1 – Workforce Profile
-- 📋 Standardize gender disclosure in HR records.
-- 👩‍🔬 Promote women in Engineering and Product roles.
-- 🔍 Conduct localized diversity audits by region.
-- 🧼 Improve data hygiene to reduce “Undisclosed” fields.
+**According to the Workforce Profile** I recommend Standardization of gender disclosure in HR records, promotion of women in Engineering and Product roles, localized diversity audits by region should be conducted and improve data hygiene to reduce “Undisclosed” fields.
 
-### 🟡 Page 2 – Compensation Overview
-- ⚖️ Prioritize equity reviews in Marketing, Engineering, Support.
-- 📈 Adjust salaries for underpaid roles with consistent high ratings.
-- 👀 Investigate departments with high pay gaps despite similar roles.
-- 🧾 Make salary data completeness mandatory in HR processes.
+In addition **For Compensation Compliance** there should be prioritization of equity reviews in Marketing, Engineering, Support.
+    - Adjust salaries for underpaid roles with consistent high ratings.
+    - Investigate departments with high pay gaps despite similar roles.
+    - Make salary data completeness mandatory in HR processes.
 
 ### 🟣 Page 3 – Performance & Ratings
-- 📏 Standardize rating rubrics across departments.
-- 💬 Calibrate manager evaluations via feedback training.
-- 🧑‍🎓 Model practices from high-performing Engineering teams.
-- 👥 Promote peer recognition for female and underrepresented talent.
+-  Standardize rating rubrics across departments.
+- Calibrate manager evaluations via feedback training.
+- Model practices from high-performing Engineering teams.
+- Promote peer recognition for female and underrepresented talent.
 
 ### 🔴 Page 4 – Bonus Allocation
-- 🧭 Ensure Abuja & Kaduna bonus weights align with actual performance, not geography.
-- 📊 Combine performance data with bonus visuals to reveal causality.
-- 🏅 Spotlight high earners to drive engagement and fairness culture.
-- ⚖️ Review location-based allocation strategy to encourage balance.
+- Ensure Abuja & Kaduna bonus weights align with actual performance, not geography.
+- Combine performance data with bonus visuals to reveal causality.
+- Spotlight high earners to drive engagement and fairness culture.
+- Review location-based allocation strategy to encourage balance.
 
 ---
 
