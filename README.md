@@ -158,9 +158,8 @@ Bonus Allocation
 
 ## 📬 Connect with Me
 
-- 📧 **Email**: [adenijielijahad@gmail.com](mailto:adenijielijahad@gmail.com)  
-- 💼 **LinkedIn**: [linkedin.com/in/adenijielijah](https://linkedin.com/in/adenijielijah)  
-- 🌐 **Portfolio**: [elijahadetomiwa.github.io](https://elijahadetomiwa.github.io)
+- 📧 **Email**: [adenijielijah2003@gmail.com](mailto:adenijielijah2003@gmail.com)  
+- 🌐 **Whatsapp**: [+2348080121362](+2348080121362)
 
 
 ---
