@@ -68,7 +68,7 @@ This dataset was unpivoted and mapped using composite keys to calculate conditio
 
 ## Dashboard Pages & Visuals
 
-### 🔵 Page 1 – Workforce Profile
+### 🔵 Workforce Profile
 - Total Employees: 946
 - Gender Split by Region and Department
 - Donut Chart, Matrix Table, Filled Map
@@ -76,7 +76,7 @@ This dataset was unpivoted and mapped using composite keys to calculate conditio
 ![Palmora Analysis P1 Workforce Profile](https://github.com/user-attachments/assets/390d0ebb-d891-4332-b06b-9a2fcf823a3c)
 
 
-### 🟡 Page 2 – Compensation Overview
+### 🟡 Compensation Overview
 - Avg Salary: $74K
 - Salary Compliance with $90K Threshold
 - Gender Pay Gap Metrics
@@ -88,7 +88,7 @@ This dataset was unpivoted and mapped using composite keys to calculate conditio
 ![Palmora ana P2b Salary equity and compliance](https://github.com/user-attachments/assets/2d6357fe-27d6-4665-8ff2-d42d01f40c1f)
 
 
-### 🟣 Page 3 – Performance & Ratings
+### 🟣 Performance & Ratings
 - Avg Rating: 2.83
 - Rating Distribution by Gender & Department
 - Top Rated Employees
@@ -96,7 +96,7 @@ This dataset was unpivoted and mapped using composite keys to calculate conditio
 
 ![Palmora Performance and rating P3](https://github.com/user-attachments/assets/5018f819-f2af-4b0b-9134-8deb60f2b74c)
 
-### 🔴 Page 4 – Bonus Allocation
+### 🔴 Bonus Allocation
 - Total Bonus Paid: $21,990
 - Bonus Eligibility: 92% of Employees
 - Bonus by Region, Department, Rating
@@ -142,13 +142,13 @@ In addition **For Compensation Compliance** there should be prioritization of eq
     - Investigate departments with high pay gaps despite similar roles.
     - Make salary data completeness mandatory in HR processes.
 
-### 🟣 Page 3 – Performance & Ratings
--  Standardize rating rubrics across departments.
+**Performance & Ratings** shows that the management need to:
+- Standardize rating rubrics across departments.
 - Calibrate manager evaluations via feedback training.
 - Model practices from high-performing Engineering teams.
 - Promote peer recognition for female and underrepresented talent.
 
-### 🔴 Page 4 – Bonus Allocation
+Bonus Allocation
 - Ensure Abuja & Kaduna bonus weights align with actual performance, not geography.
 - Combine performance data with bonus visuals to reveal causality.
 - Spotlight high earners to drive engagement and fairness culture.
