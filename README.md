@@ -1,10 +1,10 @@
-# Case Study 3: Palmoria HR Performance & Compensation Analysis
+# 📊 Case Study 3: Palmoria HR Performance & Compensation Analysis
 
 ## 👤 Author  
 **Adeniji Elijah Adetomiwa**  
 Junior Data Analyst
 
-## Submission Date  
+## 📅 Submission Date  
 **July 2025**
 
 ---
@@ -15,12 +15,11 @@ Junior Data Analyst
 - [📈 Key Business Questions](#key-business-questions)
 - [🛠️ Tools & Workflow](#tools--workflow)
 - [📊 Dashboard Pages & Visuals](#dashboard-pages--visuals)
-- [📥 Files & Downloads](#sample-files--downloads)
+- [📥 Sample Files & Downloads](#sample-files--downloads)
 - [🧠 Insights & Observations](#insights--observations)
 - [💡 Strategic Recommendations](#strategic-recommendations)
 - [📸 Sample Visuals](#sample-visuals)
 - [📬 Connect with Me](#connect-with-me)
-- [📄 License](#license)
 
 ---
 
@@ -69,33 +68,33 @@ This dataset was unpivoted and mapped using composite keys to calculate conditio
 ## 📊 Dashboard Pages & Visuals
 
 ### 🔵 Page 1 – Workforce Profile
-- Total Employees
-- Gender Split by Region
+- Total Employees: 946
+- Gender Split by Region and Department
 - Donut Chart, Matrix Table, Filled Map
 
 ### 🟡 Page 2 – Compensation Overview
-- Avg Salary
-- Compliance with $90K Rule
-- Gender Pay Gaps
-- Salary Bands
-- Funnel + Waterfall Charts
+- Avg Salary: $74K
+- Salary Compliance with $90K Threshold
+- Gender Pay Gap Metrics
+- Salary Bands by Department
+- Funnel and Waterfall Charts
 
 ### 🟣 Page 3 – Performance & Ratings
-- Avg Rating Company-wide
-- Ratings by Gender/Department
-- Matrix: Ratings by Dept × Gender
-- Key Influencer Visual
+- Avg Rating: 2.83
+- Rating Distribution by Gender & Department
+- Top Rated Employees
+- Ratings by Region & Influencer Visual
 
 ### 🔴 Page 4 – Bonus Allocation
-- Bonus Amounts & % of Eligible Employees
-- Total Compensation (Salary + Bonus)
-- Bonus by Department, Region, and Rating
-- Top 5 Bonus Earners
-- Gauge & Waterfall Visuals
+- Total Bonus Paid: $21,990
+- Bonus Eligibility: 92% of Employees
+- Bonus by Region, Department, Rating
+- Top Earners & Compensation Totals
+- Gauge and Waterfall Visuals
 
 ---
 
-## 📥 Files & Downloads
+## 📥 Sample Files & Downloads
 
 - 📁 [`PalmoraHR_Cleaned.xlsx`](datasets/PalmoraHR_Cleaned.xlsx)  
 - 📁 [`BonusMatrix_Unpivoted.xlsx`](datasets/BonusMatrix_Unpivoted.xlsx)  
@@ -105,21 +104,60 @@ This dataset was unpivoted and mapped using composite keys to calculate conditio
 
 ## 🧠 Insights & Observations
 
-- ⚠️ Over **25% of employees** earn below the company’s $90K salary benchmark
-- 📉 **Gender-based performance rating gaps** appear in Engineering, Legal, and Sales
-- 💰 **Highest bonuses** are concentrated in Product Management and R&D
-- 📍 The **South region** received the largest bonus payouts, surpassing 30% of the total
-- 🧮 Only **~82%** of employees received a bonus — mostly linked to “Good” or “Very Good” ratings
+### 🔵 Page 1 – Workforce Profile
+- 👥 Palmoria employs 946 people across Lagos, Abuja, and Kaduna.
+- ⚖️ Gender split is nearly balanced: 49% Male, 47% Female, 4% Undisclosed.
+- 👩‍💼 Strong female presence in Legal, HR, and Marketing.
+- 🧑‍💻 Engineering and Product remain male-dominated.
+- 📍 Kaduna shows consistent gender balance; undisclosed gender highest in Services and R&D.
+
+### 🟡 Page 2 – Compensation Overview
+- 💵 Average salary is $74K; 69% earn below the $90K threshold.
+- 📉 Gender pay gap of 3.55% (Men: $75K | Women: $72K).
+- 📍 Kaduna shows the smallest pay gap; Marketing and Engineering show widest gaps.
+- 🚫 Nearly 48% of underpaid employees are male, but 47.9% have undisclosed gender data.
+
+### 🟣 Page 3 – Performance & Ratings
+- 📊 Avg company rating is 2.83.
+- 🧑‍🤝‍🧑 Males average 3.10 vs. females at 2.98; Services rate lowest at 2.73.
+- 🏛️ Engineering holds the highest average score at 3.14.
+- 🏅 90 employees are top-rated ("Very Good").
+- 🌍 Ratings distributed evenly across Lagos, Kaduna, Abuja (≈ 33% each).
+
+### 🔴 Page 4 – Bonus Allocation
+- 💰 Total bonus paid: $21,990.
+- ✅ 92% of employees received a bonus.
+- 👑 Top earner: Cara Havers — over $8,200 in bonus.
+- 📍 Kaduna & Abuja lead in bonus volume (36%+); Lagos received 26%.
+- 🏛️ Training and Engineering departments lead in bonus share.
 
 ---
 
 ## 💡 Strategic Recommendations
 
-- 🔍 Re-evaluate salary fairness in Support and Marketing teams
-- 📏 Standardize performance review criteria across departments
-- 🌍 Reassess regional bonus allocations relative to actual performance
-- 🎯 Showcase Top Performers monthly to boost team morale and transparency
-- 💼 Explore structured mentorship for low-performing departments
+### 🔵 Page 1 – Workforce Profile
+- 📋 Standardize gender disclosure in HR records.
+- 👩‍🔬 Promote women in Engineering and Product roles.
+- 🔍 Conduct localized diversity audits by region.
+- 🧼 Improve data hygiene to reduce “Undisclosed” fields.
+
+### 🟡 Page 2 – Compensation Overview
+- ⚖️ Prioritize equity reviews in Marketing, Engineering, Support.
+- 📈 Adjust salaries for underpaid roles with consistent high ratings.
+- 👀 Investigate departments with high pay gaps despite similar roles.
+- 🧾 Make salary data completeness mandatory in HR processes.
+
+### 🟣 Page 3 – Performance & Ratings
+- 📏 Standardize rating rubrics across departments.
+- 💬 Calibrate manager evaluations via feedback training.
+- 🧑‍🎓 Model practices from high-performing Engineering teams.
+- 👥 Promote peer recognition for female and underrepresented talent.
+
+### 🔴 Page 4 – Bonus Allocation
+- 🧭 Ensure Abuja & Kaduna bonus weights align with actual performance, not geography.
+- 📊 Combine performance data with bonus visuals to reveal causality.
+- 🏅 Spotlight high earners to drive engagement and fairness culture.
+- ⚖️ Review location-based allocation strategy to encourage balance.
 
 ---
 
@@ -148,5 +186,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-_🧠 Built with DAX, Power BI, and a passion for data storytelling._
-
+_Crafted with 💼 and 📊 using Power BI, DAX & storytelling flair._
