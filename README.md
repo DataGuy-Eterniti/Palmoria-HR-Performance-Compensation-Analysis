@@ -1,29 +1,28 @@
-# 📊 Case Study 3: Palmoria HR Performance & Compensation Analysis
+# Case Study 3: Palmoria HR Performance & Compensation Analysis
 
-## 👤 Author  
+## Author  
 **Adeniji Elijah Adetomiwa**  
 Junior Data Analyst
 
-## 📅 Submission Date  
+## Submission Date  
 **July 2025**
 
 ---
 
-## 📌 Table of Contents
-- [📄 Project Description](#project-description)
-- [🗃️ Dataset Overview](#dataset-overview)
-- [📈 Key Business Questions](#key-business-questions)
-- [🛠️ Tools & Workflow](#tools--workflow)
-- [📊 Dashboard Pages & Visuals](#dashboard-pages--visuals)
-- [📥 Sample Files & Downloads](#sample-files--downloads)
-- [🧠 Insights & Observations](#insights--observations)
-- [💡 Strategic Recommendations](#strategic-recommendations)
-- [📸 Sample Visuals](#sample-visuals)
-- [📬 Connect with Me](#connect-with-me)
+## Table of Contents
+- [Project Description](#project-description)
+- [Dataset Overview](#dataset-overview)
+- [Key Business Questions](#key-business-questions)
+- [Tools & Workflow](#tools--workflow)
+- [Dashboard Pages & Visuals](#dashboard-pages--visuals)
+- [Insights & Observations](#insights--observations)
+- [Strategic Recommendations](#strategic-recommendations)
+- [Sample Visuals](#sample-visuals)
+- [Connect with Me](#connect-with-me)
 
 ---
 
-## 📄 Project Description
+## Project Description
 
 This HR analytics project was developed as a capstone deliverable for the **Digital SkillUp Africa (DSA)** training program. It simulates a real-world scenario where I served as a junior analyst for **Palmoria Group**, tasked with investigating HR trends, rating equity, compensation patterns, and bonus allocation strategy using Microsoft Power BI.
 
@@ -31,41 +30,45 @@ The dashboard is interactive, multi-layered, and designed to help management gai
 
 ---
 
-## 🗃️ Dataset Overview
+## Dataset Overview
 
-### 1️⃣ **Employee Dataset (`PalmoraHR.xlsx`)**
+### 1. **Employee Dataset**
 Contains employee-level records including:
 - Name, Gender, Location, Department
 - Salary, Performance Rating (Very Poor to Very Good)
 
-### 2️⃣ **Bonus Rules Dataset (`BonusMatrix.xlsx`)**
+[Employee Dataset](https://github.com/DataGuy-Eterniti/Palmoria-HR-Performance-Compensation-Analysis/blob/main/Palmoria%20Group%20emp-data.csv)
+
+### 2. **Bonus Rules Dataset**
 Bonus percentages vary by **Department + Rating**.
 This dataset was unpivoted and mapped using composite keys to calculate conditional bonus payouts per employee.
 
+[Bonus Rule Dataset](https://github.com/DataGuy-Eterniti/Palmoria-HR-Performance-Compensation-Analysis/blob/main/Palmoria%20Group%20Bonus%20Rules.xlsx)
+
 ---
 
-## 📈 Key Business Questions
+## Key Business Questions
 
 | Page | Questions Answered |
 |------|--------------------|
-| 1️⃣ Workforce Profile | What’s the gender and departmental spread across regions? |
-| 2️⃣ Compensation Overview | How fairly are salaries distributed by gender and region? |
-| 3️⃣ Performance & Ratings | Are ratings consistent across departments and demographics? |
-| 4️⃣ Bonus Allocation | Who earned bonuses? Are payouts equitably distributed? |
+| 1. Workforce Profile | What’s the gender and departmental spread across regions? |
+| 2. Compensation Overview | How fairly are salaries distributed by gender and region? |
+| 3. Performance & Ratings | Are ratings consistent across departments and demographics? |
+| 4. Bonus Allocation | Who earned bonuses? Are payouts equitably distributed? |
 
 ---
 
-## 🛠️ Tools & Workflow
+## Tools & Workflow
 
-- **Power BI Desktop**  
-- Power Query: Data cleaning and transformation  
-- DAX: Custom measures and calculated columns  
-- Data modeling: Composite keys, many-to-one joins  
-- Visuals: KPIs, funnel, waterfall, filled maps, matrix, gauge
+- **Power BI Desktop** [Power BI](https://www.microsoft.com/en-us/download/details.aspx?id=5849)
+  - Power Query: Data cleaning and transformation  
+  - DAX: Custom measures and calculated columns  
+  - Data modeling: Composite keys, many-to-one joins  
+  - Visuals: KPIs, funnel, waterfall, filled maps, matrix, gauge
 
 ---
 
-## 📊 Dashboard Pages & Visuals
+## Dashboard Pages & Visuals
 
 ### 🔵 Page 1 – Workforce Profile
 - Total Employees: 946
@@ -178,11 +181,6 @@ This dataset was unpivoted and mapped using composite keys to calculate conditio
 - 💼 **LinkedIn**: [linkedin.com/in/adenijielijah](https://linkedin.com/in/adenijielijah)  
 - 🌐 **Portfolio**: [elijahadetomiwa.github.io](https://elijahadetomiwa.github.io)
 
----
-
-## 📄 License
-
-This project is licensed under the [MIT License](LICENSE).
 
 ---
 
