@@ -117,31 +117,27 @@ This dataset was unpivoted and mapped using composite keys to calculate conditio
 ## Insights & Observations
 
 ### 🔵 Page 1 – Workforce Profile
-- 👥 Palmoria employs 946 people across Lagos, Abuja, and Kaduna.
-- ⚖️ Gender split is nearly balanced: 49% Male, 47% Female, 4% Undisclosed.
-- 👩‍💼 Strong female presence in Legal, HR, and Marketing.
-- 🧑‍💻 Engineering and Product remain male-dominated.
-- 📍 Kaduna shows consistent gender balance; undisclosed gender highest in Services and R&D.
+- Findings reveal that Palmoria employs 946 people across Lagos, Abuja, and Kaduna and Gender split is nearly balanced: 49% Male, 47% Female, 4% Undisclosed.
+- Strong female presence in Legal, HR, and Marketing.
+- Engineering and Product remain male-dominated.
+- Kaduna shows consistent gender balance; undisclosed gender highest in Services and R&D.
 
 ### 🟡 Page 2 – Compensation Overview
-- 💵 Average salary is $74K; 69% earn below the $90K threshold.
-- 📉 Gender pay gap of 3.55% (Men: $75K | Women: $72K).
-- 📍 Kaduna shows the smallest pay gap; Marketing and Engineering show widest gaps.
-- 🚫 Nearly 48% of underpaid employees are male, but 47.9% have undisclosed gender data.
+- Average salary is $74K; 69% earn below the $90K threshold.
+- Gender pay gap of 3.55% (Men: $75K | Women: $72K).
+- Kaduna shows the smallest pay gap; Marketing and Engineering show widest gaps.
+- Nearly 48% of underpaid employees are male, but 47.9% have undisclosed gender data.
 
 ### 🟣 Page 3 – Performance & Ratings
-- 📊 Avg company rating is 2.83.
-- 🧑‍🤝‍🧑 Males average 3.10 vs. females at 2.98; Services rate lowest at 2.73.
-- 🏛️ Engineering holds the highest average score at 3.14.
-- 🏅 90 employees are top-rated ("Very Good").
-- 🌍 Ratings distributed evenly across Lagos, Kaduna, Abuja (≈ 33% each).
+- Avg company rating is 2.83 with disposition into Males average 3.10 vs. females at 2.98; Services rate lowest at 2.73.
+- Engineering holds the highest average score at 3.14.
+- 90 employees are top-rated ("Very Good").
+- Ratings distributed evenly across Lagos, Kaduna, Abuja (≈ 33% each).
 
 ### 🔴 Page 4 – Bonus Allocation
-- 💰 Total bonus paid: $21,990.
-- ✅ 92% of employees received a bonus.
-- 👑 Top earner: Cara Havers — over $8,200 in bonus.
-- 📍 Kaduna & Abuja lead in bonus volume (36%+); Lagos received 26%.
-- 🏛️ Training and Engineering departments lead in bonus share.
+- The Total bonus paid: $21,990 and 92% of employees received a bonus with Top earner: Cara Havers — over $8,200 in bonus.
+- Kaduna & Abuja lead in bonus volume (36%+); Lagos received 26%.
+- Training and Engineering departments lead in bonus share.
 
 ---
 
